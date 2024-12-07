@@ -18,7 +18,7 @@ Di era digital, data menjadi aset strategis yang sangat berharga bagi perusahaan
 - Kapan transaksi paling banyak terjadi, dan apa pola temporalnya?
 
 ## Implementasi RFM
-1. **Recency**: Mengukur jumlah hari sejak transaksi terakhir hingga tanggal referensi (misalnya 2020/01/01).  
+1. **Recency**: Mengukur jumlah hari sejak transaksi terakhir hingga tanggal referensi (misalnya dalam data ini 2020/01/01).  
 2. **Frequency**: Menghitung jumlah transaksi untuk setiap pelanggan.  
 3. **Monetary**: Menjumlahkan total pengeluaran pelanggan.  
 
@@ -46,7 +46,7 @@ Treemap menunjukkan distribusi kontribusi tiap segmen pelanggan:
 - Segmen **"At Risk"** dan **"Can't Lose"** membutuhkan perhatian lebih untuk retensi.
 
 ### Dashboard
-- **Link Tableau**: [🛒 Online Shopping Dataset 📊📉📈](https://public.tableau.com/views/DashboardRFM_17334164071000/Sheet2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Link Tableau**: [Tableau Dashboard](https://public.tableau.com/views/DashboardRFM_17334164071000/Sheet2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Hasil Analisis dan Rekomendasi
 
