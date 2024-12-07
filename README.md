@@ -46,7 +46,7 @@ Treemap menunjukkan distribusi kontribusi tiap segmen pelanggan:
 - Segmen **"At Risk"** dan **"Can't Lose"** membutuhkan perhatian lebih untuk retensi.
 
 ### Dashboard
-- **Link Tableau**: [🛒 Online Shopping Dataset 📊📉📈](#)
+- **Link Tableau**: [🛒 Online Shopping Dataset 📊📉📈](https://public.tableau.com/views/DashboardRFM_17334164071000/Sheet2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Hasil Analisis dan Rekomendasi
 
