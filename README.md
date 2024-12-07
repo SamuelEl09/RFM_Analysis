@@ -40,6 +40,7 @@ Di era digital, data menjadi aset strategis yang sangat berharga bagi perusahaan
 
 ## Visualisasi Data
 ### Treemap
+![Screenshot 2024-12-07 160036](https://github.com/user-attachments/assets/31af9593-f5a4-4bec-8890-0815fbce4d4b)
 
 Treemap menunjukkan distribusi kontribusi tiap segmen pelanggan:
 - Segmen **"Loyal Customers"** dan **"Champions"** memiliki kontribusi terbesar.
